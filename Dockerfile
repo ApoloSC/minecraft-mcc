@@ -19,4 +19,4 @@ RUN chmod +x MinecraftClient
 # 7. EJECUTAMOS EL BOT CON LOS DATOS DIRECTOS
 # Sintaxis: ./MinecraftClient <USUARIO> <CONTRASEÑA> <IP>
 # Como es No Premium, pon un guión "-" en la contraseña.
-CMD ["./MinecraftClient", "AFK-Bot", "-", "server.dispearson.com"]
+CMD ["./MinecraftClient", "AFK-Bot", "-", "server.dispearson.tech"]
